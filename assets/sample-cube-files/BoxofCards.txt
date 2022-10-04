@@ -1,0 +1,360 @@
+Dauntless Bodyguard
+Doomed Traveler
+Faerie Guidemother
+Gideon's Lawkeeper
+Mardu Woe-Reaper
+Mother of Runes
+Skymarcher Aspirant
+Thraben Inspector
+Usher of the Fallen
+Accorder Paladin
+Adanto Vanguard
+Ajani's Pridemate
+Clarion Spirit
+Daxos, Blessed by the Sun
+Kor Skyfisher
+Seasoned Hallowblade
+Seeker of the Way
+Shepherd of the Flock
+Sunhome Stalwart
+Wall of Omens
+Aerial Responder
+Danitha Capashen, Paragon
+Fiend Hunter
+Flickerwisp
+Militia Bugler
+Porcelain Legionnaire
+Visionary Augmenter
+Cloudgoat Ranger
+Serra Angel
+Sentinel of the Eternal Watch
+The Wanderer
+Gods Willing
+Swords to Plowshares
+Blessed Alliance
+Momentary Blink
+Raise the Alarm
+Forsake the Worldly
+Lingering Souls
+Battle Screech
+Portable Hole
+Ancestral Blade
+Glass Casket
+Plate Armor
+Intangible Virtue
+Rune of Sustenance
+Cast Out
+Faith's Fetters
+On Serra's Wings
+Pteramander
+Siren Stormtamer
+Spectral Sailor
+Brineborn Cutthroat
+Faerie Vandal
+Hypnotic Sprite
+Looter il-Kor
+Merfolk Looter
+Merfolk Trickster
+Watcher for Tomorrow
+Cloudkin Seer
+Man-o'-War
+Pestermite
+Sea Gate Oracle
+Moonblade Shinobi
+Murmuring Mystic
+Skatewing Spy
+Whirler Rogue
+Mulldrifter
+Shipwreck Dowser
+Cryptic Serpent
+Waker of Waves
+Narset, Parter of Veils
+Kasmina, Enigmatic Mentor
+Brainstorm
+Consider
+Force Spike
+Censor
+Counterspell
+Daze
+Into the Roil
+Mana Leak
+Supreme Will
+Fact or Fiction
+Hieroglyphic Illumination
+Rewind
+Gitaxian Probe
+Ponder
+Chart a Course
+Anchor to the Aether
+Tezzeret's Gambit
+Rise from the Tides
+Treasure Cruise
+Favorable Winds
+Ominous Seas
+Rune of Flight
+Propaganda
+Control Magic
+Carrion Feeder
+Diregraf Ghoul
+Foulmire Knight
+Putrid Imp
+Blood Artist
+Bloodsky Berserker
+Gifted Aetherborn
+Grim Wanderer
+Kitesail Freebooter
+Mire Triton
+Order of Midnight
+Reassembling Skeleton
+Vault Skirge
+Zulaport Cutthroat
+Liliana's Devotee
+Plaguecrafter
+Undead Gladiator
+Vampire Nighthawk
+Weaponcraft Enthusiast
+Bone Picker
+Ravenous Chupacabra
+Gray Merchant of Asphodel
+Indulgent Tormentor
+Shriekmaw
+Syr Konrad, the Grim
+First-Sphere Gargantua
+Gurmag Angler
+Void Beckoner
+Davriel, Rogue Shadowmage
+Ob Nixilis, the Hate-Twisted
+Dark Ritual
+Fatal Push
+Village Rites
+Vicious Offering
+Dismember
+Murderous Cut
+Duress
+Unearth
+Chainer's Edict
+Exhume
+Ransack the Lab
+Drown in Sorrow
+Blood for Bones
+Reaper's Talisman
+Rune of Mortality
+Sanguine Bond
+The Eldest Reborn
+Blazing Rootwalla
+Dragon's Rage Channeler
+Goblin Banneret
+Goblin Glory Chaser
+Jackal Pup
+Monastery Swiftspear
+Orcish Lumberjack
+Rigging Runner
+Stonewright
+Battle Cry Goblin
+Bloodrage Brawler
+Embereth Shieldbreaker
+Flametongue Yearling
+Goblin Cratermaker
+Rimrock Knight
+Stormblood Berserker
+Thermo-Alchemist
+Young Pyromancer
+Ahn-Crop Crasher
+Anax, Hardened in the Forge
+Bogardan Dragonheart
+Guttersnipe
+Spellgorger Weird
+Valduk, Keeper of the Flame
+Avalanche Riders
+Embodiment of Fury
+Flametongue Kavu
+Charging Monstrosaur
+Syr Carah, the Bold
+Tibalt, Rakish Instigator
+Burst Lightning
+Galvanic Blast
+Lightning Bolt
+Abrade
+Stoke the Flames
+Fireblast
+Claim the Firstborn
+Faithless Looting
+Firebolt
+Arc Trail
+Pyroclasm
+Hordeling Outburst
+Light Up the Stage
+Shrine of Burning Rage
+Goblin Bombardment
+Madcap Skills
+Rune of Speed
+Arbor Elf
+Avacyn's Pilgrim
+Experiment One
+Llanowar Elves
+Paradise Druid
+Pollenbright Druid
+Sakura-Tribe Elder
+Satyr Wayfinder
+Untamed Kavu
+Voyaging Satyr
+Evolution Sage
+Fertilid
+Reclamation Sage
+Thrashing Brontodon
+Bannerhide Krushok
+Briarhorn
+Renata, Called to the Hunt
+Timeless Witness
+Voracious Typhon
+Acidic Slime
+Crested Herdcaller
+Embodiment of Insight
+Heroes' Bane
+Ridgescale Tusker
+Snapping Sailback
+Great Oak Guardian
+Grunn, the Lonely King
+Nemesis of Mortals
+Scaled Behemoth
+Beanstalk Giant
+Krosan Tusker
+Pelakka Wurm
+Sifter Wurm
+Titanoth Rex
+Jiang Yanggu, Wildcrafter
+Blossoming Defense
+Beast Within
+Beast Attack
+Edge of Autumn
+Cultivate
+Trumpeting Herd
+Spider Spawning
+Roar of the Wurm
+Rancor
+Wild Growth
+Rune of Might
+Song of Freyalise
+Squirrel Nest
+Rakdos Cackler
+Angrath, Captain of Chaos
+Sundering Growth
+Kaya, Bane of the Dead
+Saheeli, Sublime Artificer
+Nahiri, Storm of Stone
+Kiora, Behemoth Beckoner
+Azorius Signet
+Soulherder
+Cloudblazer
+Kangee, Sky Warden
+Baleful Strix
+Dimir Signet
+Ingenious Infiltrator
+Dinrova Horror
+Fireblade Artist
+Rakdos Headliner
+Rakdos Signet
+Mayhem Devil
+Gruul Signet
+Rhythm of the Wild
+Ghor-Clan Rampager
+Raging Swordtooth
+Selesnya Signet
+Good-Fortune Unicorn
+Wayfaring Temple
+Trostani's Summoner
+Hidden Stockpile
+Orzhov Signet
+Indulging Patrician
+Regal Bloodlord
+Izzet Signet
+Sprite Dragon
+Crackling Drake
+Thundering Djinn
+Golgari Signet
+Skull Prophet
+Rotwidow Pack
+Baloth Null
+Boros Signet
+Lightning Helix
+Sunhome Guildmage
+Heroic Reinforcements
+Simic Signet
+Frilled Mystic
+Fleetfeather Cockatrice
+Tatyova, Benthic Druid
+Gingerbrute
+Signal Pest
+Perilous Myr
+Filigree Familiar
+Pilgrim's Eye
+Treasure Keeper
+Meteor Golem
+Bonesplitter
+Flayer Husk
+Skullclamp
+Trusty Machete
+Wayfarer's Bauble
+Lightning Greaves
+Mind Stone
+Grafted Wargear
+Heirloom Blade
+Loxodon Warhammer
+Oketra's Monument
+Runed Crown
+Icy Manipulator
+Celestial Colonnade
+Flooded Strand
+Glacial Fortress
+Hallowed Fountain
+Irrigated Farmland
+Creeping Tar Pit
+Drowned Catacomb
+Fetid Pools
+Polluted Delta
+Watery Grave
+Blood Crypt
+Bloodstained Mire
+Canyon Slough
+Dragonskull Summit
+Lavaclaw Reaches
+Raging Ravine
+Rootbound Crag
+Sheltered Thicket
+Stomping Ground
+Wooded Foothills
+Scattered Groves
+Stirring Wildwood
+Sunpetal Grove
+Temple Garden
+Windswept Heath
+Godless Shrine
+Isolated Chapel
+Marsh Flats
+Shambling Vent
+Scalding Tarn
+Steam Vents
+Sulfur Falls
+Wandering Fumarole
+Hissing Quagmire
+Overgrown Tomb
+Verdant Catacombs
+Woodland Cemetery
+Arid Mesa
+Clifftop Retreat
+Needle Spires
+Sacred Foundry
+Breeding Pool
+Hinterland Harbor
+Lumbering Falls
+Misty Rainforest
+Savai Triome
+Ketria Triome
+Indatha Triome
+Raugrin Triome
+Zagoth Triome
+Aether Hub
+Ash Barrens
+Evolving Wilds
+Fabled Passage
+Strip Mine

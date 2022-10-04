@@ -1,0 +1,360 @@
+Alseid of Life's Bounty
+Gideon's Lawkeeper
+Accorder Paladin
+Clarion Spirit
+Consul's Lieutenant
+Fearless Fledgling
+Knight of Meadowgrain
+Kor Skyfisher
+Raise the Alarm
+Seeker of the Way
+Shepherd of the Flock
+Wall of Omens
+Whitemane Lion
+Abzan Falconer
+Aerial Responder
+Ardenvale Tactician
+Fiend Hunter
+Flickerwisp
+Kor Sanctifiers
+Militia Bugler
+Stonecloaker
+Goldnight Commander
+Meadowboon
+Rhox Veteran
+Seraph of Dawn
+Cloudgoat Ranger
+Elite Scaleguard
+Serra Angel
+Syr Alin, the Lion's Claw
+Sentinel of the Eternal Watch
+Spectral Procession
+Subjugator Angel
+Condemn
+Feat of Resistance
+Immolating Glare
+Kabira Takedown
+Momentary Blink
+Sejiri Shelter
+Valorous Stance
+Skywhaler's Shot
+Battle Screech
+Ancestral Blade
+Shrine of Loyal Legions
+Intangible Virtue
+Journey to Nowhere
+Oblivion Ring
+Stasis Snare
+Angelic Exaltation
+Conclave Tribunal
+Faith's Fetters
+Delver of Secrets
+Pteramander
+Spectral Sailor
+Brineborn Cutthroat
+Fog Bank
+Hypnotic Sprite
+Merfolk Looter
+Ninja of the Deep Hours
+Alirios, Enraptured
+Frost Trickster
+Man-o'-War
+Sea Gate Oracle
+Silumgar Sorcerer
+Stitched Drake
+Stormbound Geist
+Archaeomancer
+Cephalid Broker
+Merchant Raiders
+Mist Raven
+Murmuring Mystic
+Oneirophage
+Whirler Rogue
+Mulldrifter
+Riftwing Cloudskate
+Angler Drake
+Kasmina, Enigmatic Mentor
+Condescend
+Vapor Snag
+Disdainful Stroke
+Into the Roil
+Dissipate
+Forbidden Alchemy
+Ghostly Flicker
+Neutralize
+Repulse
+Supreme Will
+Chemister's Insight
+Dismiss
+Fact or Fiction
+Artful Dodge
+Ponder
+Chart a Course
+Compulsive Research
+Deep Analysis
+Boon of the Wish-Giver
+Rise from the Tides
+Treasure Cruise
+Crystal Shard
+Ominous Seas
+Mind Control
+Carrion Feeder
+Foulmire Knight
+Blood Artist
+Dusk Legion Zealot
+Gifted Aetherborn
+Golgari Thug
+Lampad of Death's Vigil
+Order of Midnight
+Orzhov Enforcer
+Zulaport Cutthroat
+Crypt Rats
+Plague Mare
+Plaguecrafter
+Stinkweed Imp
+Undead Gladiator
+Vampire Nighthawk
+Entomber Exarch
+Nekrataal
+Pharika's Spawn
+Sling-Gang Lieutenant
+Indulgent Tormentor
+Rakshasa Gravecaller
+Shriekmaw
+Syr Konrad, the Grim
+Vampire Sovereign
+Feaster of Fools
+Twisted Abomination
+Gurmag Angler
+Malakir Rebirth
+Tragic Slip
+Bile Blight
+Doom Blade
+Go for the Throat
+Ultimate Price
+Murderous Cut
+Agonizing Remorse
+Epic Downfall
+Hymn to Tourach
+Golden Demise
+Read the Bones
+Victimize
+Feast of Succession
+Dead Weight
+Phyrexian Reclamation
+Animate Dead
+Bastion of Remembrance
+Curse of Shallow Graves
+Elspeth's Nightmare
+Stab Wound
+The Eldest Reborn
+Goblin Bushwhacker
+Monastery Swiftspear
+Burning-Fist Minotaur
+Dragon Fodder
+Goblin Cratermaker
+Kiln Fiend
+Mogg War Marshal
+Rimrock Knight
+Thermo-Alchemist
+Young Pyromancer
+Ahn-Crop Crasher
+Anax, Hardened in the Forge
+Breakneck Rider
+Cunning Sparkmage
+Guttersnipe
+Merchant of the Vale
+Beetleback Chief
+Flametongue Kavu
+Goblin Heelcutter
+Rockslide Sorcerer
+Smoldering Werewolf
+Charging Monstrosaur
+Frenzied Saddlebrute
+Vildin-Pack Outcast
+Volcanic Dragon
+Lightning Bolt
+Abrade
+Cinderclasm
+Fire Prophecy
+Heartfire
+Magma Jet
+Brimstone Volley
+Hungry Flames
+Savage Alliance
+Staggershock
+Stoke the Flames
+Claim the Firstborn
+Faithless Looting
+Arc Trail
+Rolling Thunder
+Fight with Fire
+Flames of the Firebrand
+Light Up the Stage
+Meteor Blast
+Goblin War Party
+Slice and Dice
+Shrine of Burning Rage
+Dwarven Hammer
+Weaponize the Monsters
+Goblin Bombardment
+Elvish Mystic
+Llanowar Elves
+Ambush Viper
+Boneyard Wurm
+Duskwatch Recruiter
+Jade Mage
+Kraul Harpooner
+Sakura-Tribe Elder
+Satyr Wayfinder
+Sprout Swarm
+Untamed Kavu
+Voyaging Satyr
+Devotee of Strength
+Eternal Witness
+Reclamation Sage
+Shrill Howler
+Thrashing Brontodon
+Wolfir Avenger
+Yavimaya Elder
+Briarhorn
+Halana, Kessig Ranger
+Predator's Howl
+Renata, Called to the Hunt
+Temur Sabertooth
+Trumpeting Herd
+Voracious Typhon
+Acidic Slime
+Arborback Stomper
+Crested Herdcaller
+Ridgescale Tusker
+Trollbred Guardian
+Scaled Behemoth
+Beanstalk Giant
+Pelakka Wurm
+Vines of Vastwood
+Beast Within
+Clear Shot
+Harrow
+Nature's Way
+Winding Way
+Bala Ged Recovery
+Cultivate
+Overrun
+Spider Spawning
+Roar of the Wurm
+Rancor
+Curse of Predation
+Gaea's Anthem
+Moldervine Cloak
+Squirrel Nest
+Azorius Chancery
+Tranquil Cove
+Mistmeadow Witch
+Empyrean Eagle
+Reflector Mage
+Soulherder
+Cloudblazer
+Azorius Skyguard
+Dimir Aqueduct
+Dismal Backwater
+Tyrant's Scorn
+Shadowmage Infiltrator
+Soul Manipulation
+Extract from Darkness
+Far // Away
+Dinrova Horror
+Bloodfell Caves
+Rakdos Carnarium
+Slaughter-Priest of Mogis
+Terminate
+Mayhem Devil
+Angrath, Captain of Chaos
+Kardur, Doomscourge
+Bituminous Blast
+Gruul Turf
+Rugged Highlands
+Domri's Ambush
+Zhur-Taa Druid
+Fires of Yavimaya
+Bloodbraid Elf
+Ghor-Clan Rampager
+Vengeful Rebirth
+Blossoming Sands
+Selesnya Sanctuary
+Qasali Pridemage
+Vitu-Ghazi Guildmage
+Good-Fortune Unicorn
+Conclave Cavalier
+Juniper Order Ranger
+Enlisted Wurm
+Orzhov Basilica
+Scoured Barrens
+Tidehollow Sculler
+Zealous Persecution
+Harsh Sustenance
+Lingering Souls
+Mortify
+Firja, Judge of Valor
+Izzet Boilerworks
+Swiftwater Cliffs
+Gelectrode
+Rootha, Mercurial Artist
+Saheeli, Sublime Artificer
+Umara Mystic
+Crackling Drake
+Ral's Outburst
+Golgari Rot Farm
+Jungle Hollow
+Korozda Guildmage
+Nyx Weaver
+Binding the Old Gods
+Poison-Tip Archer
+Status // Statue
+Baloth Null
+Boros Garrison
+Wind-Scarred Crag
+Justice Strike
+Lightning Helix
+Rip Apart
+Sunhome Guildmage
+Heroic Reinforcements
+Returned Pastcaller
+Simic Growth Chamber
+Thornwood Falls
+Kiora's Follower
+River Hoopoe
+Void Grafter
+Frilled Mystic
+Horizon Chimera
+Tatyova, Benthic Druid
+Seaside Citadel
+Arcane Sanctum
+Crumbling Necropolis
+Savage Lands
+Jungle Shrine
+Nomad Outpost
+Frontier Bivouac
+Sandsteppe Citadel
+Mystic Monastery
+Opulent Palace
+Ugin's Conjurant
+Lesser Masticore
+Millikin
+Porcelain Legionnaire
+Bane of Bala Ged
+Meteor Golem
+Maelstrom Colossus
+Bonesplitter
+Leonin Bola
+Mind Stone
+Entrancing Lyre
+Grafted Wargear
+Oketra's Monument
+Hedron Archive
+Untethered Express
+Ash Barrens
+Evolving Wilds
+Guildless Commons
+Rogue's Passage
+Terramorphic Expanse

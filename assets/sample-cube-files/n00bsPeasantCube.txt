@@ -1,0 +1,415 @@
+Dauntless Bodyguard
+Dryad Militant
+Gideon's Lawkeeper
+Mardu Woe-Reaper
+Mother of Runes
+Skymarcher Aspirant
+Usher of the Fallen
+Accorder Paladin
+Adanto Vanguard
+Ancestral Blade
+Barbed Spike
+Cathar Commando
+Cloistered Youth
+Consul's Lieutenant
+Fearless Fledgling
+Kor Skyfisher
+Nyx-Fleece Ram
+Raise the Alarm
+Seeker of the Way
+Soltari Trooper
+Sunhome Stalwart
+Syndic of Tithes
+Wall of Omens
+Aerial Responder
+Danitha Capashen, Paragon
+Fairgrounds Warden
+Flickerwisp
+Kor Hookmaster
+Kor Sanctifiers
+Midnight Haunting
+Orzhov Advokist
+Soltari Champion
+Stonecloaker
+Sunscourge Champion
+Baird, Steward of Argive
+Battle Screech
+Calciderm
+Coalition Honor Guard
+Palace Jailer
+Rhox Veteran
+Spectral Procession
+Cloudgoat Ranger
+Custodi Squire
+Elite Scaleguard
+Serra Angel
+Feudkiller's Verdict
+Sentinel of the Eternal Watch
+Glorious Enforcer
+Valiant Changeling
+Nahiri, Storm of Stone
+Condemn
+Ephemerate
+Path to Exile
+Swords to Plowshares
+Blessed Alliance
+Shelter
+Forsake the Worldly
+Rally the Peasants
+Oketra's Monument
+Gryff's Boon
+Intangible Virtue
+Journey to Nowhere
+Temporal Isolation
+Oblivion Ring
+Cast Out
+Conclave Tribunal
+Faerie Conclave
+Cloudfin Raptor
+Enclave Cryptologist
+Pteramander
+Spectral Sailor
+Brineborn Cutthroat
+Departed Deckhand
+Faerie Vandal
+Looter il-Kor
+Merfolk Looter
+Merfolk Trickster
+Omenspeaker
+Skyship Plunderer
+Stormchaser Drake
+Watcher for Tomorrow
+Aerial Guide
+Cloudkin Seer
+Frost Trickster
+Jubilant Skybonder
+Latch Seeker
+Man-o'-War
+Sea Gate Oracle
+Serendib Efreet
+Tandem Lookout
+Clone
+Merchant Raiders
+Murmuring Mystic
+Whirler Rogue
+Illusory Ambusher
+Mulldrifter
+Jetting Glasskite
+Errant Ephemeron
+Phyrexian Ingester
+Striped Riverwinder
+Drownyard Behemoth
+Saheeli, Sublime Artificer
+Kasmina, Enigmatic Mentor
+Vapor Snag
+Counterspell
+Daze
+Impulse
+Lose Focus
+Mana Drain
+Mana Leak
+Remand
+Snap
+Forbid
+Frantic Search
+Psionic Blast
+Thirst for Discovery
+Fact or Fiction
+Force of Will
+Gush
+Mirror Match
+Preordain
+Chart a Course
+Talrand's Invocation
+Rise from the Tides
+Treasure Cruise
+Crystal Shard
+Bubble Snare
+Curse of Chains
+Standstill
+Fall from Favor
+Control Magic
+Reconnaissance Mission
+Carrion Feeder
+Diregraf Ghoul
+Gnarled Scarhide
+Sarcomancy
+Vampire Lacerator
+Blood Artist
+Dauthi Horror
+Gifted Aetherborn
+Heir of Falkenrath
+Legion Vanguard
+Mire Triton
+Order of Midnight
+Orzhov Enforcer
+Reassembling Skeleton
+Sinister Starfish
+Vermin Gorger
+Wight of Precinct Six
+Blackbloom Rogue
+Bone Shredder
+Dauthi Marauder
+Fell Stinger
+Grimdancer
+Hypnotic Specter
+Liliana's Devotee
+Plaguecrafter
+Stinkweed Imp
+Vampire Nighthawk
+Bone Picker
+Corpse Augur
+Falkenrath Noble
+Marsh Flitter
+Murderous Redcap
+Ravenous Chupacabra
+Shriekmaw
+Syr Konrad, the Grim
+Vampire Sovereign
+First-Sphere Gargantua
+Twisted Abomination
+Archfiend of Sorrows
+Gurmag Angler
+Angrath, Captain of Chaos
+Undying Evil
+Cast Down
+Go for the Throat
+Infernal Grasp
+Ultimate Price
+Umbral Juke
+Bone Shards
+Inquisition of Kozilek
+Reanimate
+Unearth
+Demonic Tutor
+Exhume
+Night's Whisper
+Drown in Sorrow
+Read the Bones
+Victimize
+Barter in Blood
+Incremental Blight
+Unburial Rites
+Feast of Succession
+Quest for the Gravelord
+Animate Dead
+Dance of the Dead
+Necromancy
+Diabolic Servitude
+Akoum Hellhound
+Blazing Rootwalla
+Dragon's Rage Channeler
+Frenzied Goblin
+Goblin Motivator
+Jackal Pup
+Rakdos Cackler
+Stonewright
+Aether Chaser
+Bloodrage Brawler
+Burning-Tree Emissary
+Careless Celebrant
+Flametongue Yearling
+Forbidden Friendship
+Gore-House Chainwalker
+Heartfire Immolator
+Lightning Mauler
+Mogg War Marshal
+Stormblood Berserker
+Thriving Grubs
+Young Pyromancer
+Acolyte of the Inferno
+Ahn-Crop Crasher
+Anax, Hardened in the Forge
+Coastline Marauders
+Fire Imp
+Goblin Heelcutter
+Guttersnipe
+Hissing Iguanar
+Hordeling Outburst
+Imperial Recruiter
+Spelleater Wolverine
+Spiteful Prankster
+Splatter Thug
+Toggo, Goblin Weaponsmith
+Beetleback Chief
+Crimson Fleet Commodore
+Flametongue Kavu
+Goblin Traprunner
+Keldon Champion
+Scrapper Champion
+Spitemare
+Charging Monstrosaur
+Rite of the Raging Storm
+Burst Lightning
+Lightning Bolt
+Abrade
+Lightning Strike
+Magma Jet
+Fast // Furious
+Staggershock
+Stoke the Flames
+Fireblast
+Claim the Firstborn
+Faithless Looting
+Firebolt
+Flame Slash
+Pyroclasm
+Flames of the Firebrand
+Light Up the Stage
+Slice and Dice
+Weaponize the Monsters
+Goblin Bombardment
+Goblin Oriflamme
+Madcap Skills
+Lust for War
+Treetop Village
+Arbor Elf
+Chainweb Aracnir
+Experiment One
+Joraga Treespeaker
+Kessig Prowler
+Llanowar Elves
+Devoted Druid
+Duskwatch Recruiter
+Jade Mage
+Kraul Harpooner
+Merfolk Branchwalker
+Mother Bear
+Nest Invader
+Noose Constrictor
+Outland Liberator
+Pollenbright Druid
+Quirion Dryad
+Reclusive Taxidermist
+Saddled Rimestag
+Sakura-Tribe Elder
+Strangleroot Geist
+Untamed Kavu
+Wall of Roots
+Crocanura
+Eternal Witness
+Evolution Sage
+Kitchen Finks
+Llanowar Visionary
+Reclamation Sage
+Scurry Oak
+Trophy Hunter
+Bannerhide Krushok
+Briarhorn
+Halana, Kessig Ranger
+Iwamori of the Open Fist
+Temur Sabertooth
+Timeless Witness
+Wickerbough Elder
+Acidic Slime
+Arborback Stomper
+Ridgescale Tusker
+Snapping Sailback
+Great Oak Guardian
+Hooting Mandrills
+Warden of the Woods
+Krosan Tusker
+Pelakka Wurm
+Plated Crusher
+Roar of the Wurm
+Blossoming Defense
+Clear Shot
+Fungal Rebirth
+Invigorate
+Snakeform
+Become Immense
+Abundant Harvest
+Farseek
+Nature's Way
+Regrowth
+Bala Ged Recovery
+Kodama's Reach
+Harmonize
+Rancor
+Utopia Sprawl
+Gaea's Anthem
+Empyrean Eagle
+Soulherder
+Migratory Route
+Baleful Strix
+Araumi of the Dead Tide
+Psychatog
+Rakdos Headliner
+Fire Covenant
+Bituminous Blast
+Goblin Anarchomancer
+Rhythm of the Wild
+Bloodbraid Elf
+Arcus Acolyte
+Juniper Order Ranger
+Trostani's Summoner
+Killian, Ink Duelist
+Lingering Souls
+Maw of the Obzedat
+Izzet Charm
+Gelectrode
+Prophetic Bolt
+Catacomb Sifter
+Poison-Tip Archer
+Baloth Null
+Honored Crop-Captain
+Goblin Trenches
+Integrity // Intervention
+Shardless Agent
+Trygon Predator
+Parcelbeast
+Epochrasite
+Ornithopter of Paradise
+Perilous Myr
+Porcelain Legionnaire
+Spined Thopter
+Filigree Familiar
+Snare Thopter
+Artisan of Kozilek
+Ulamog's Crusher
+Dismember
+Gitaxian Probe
+Tezzeret's Gambit
+Bag of Holding
+Bonesplitter
+Pacification Array
+Coldsteel Heart
+Lightning Greaves
+Mask of Memory
+Mind Stone
+Spare Supplies
+Heirloom Blade
+Pristine Talisman
+Renegade Freighter
+Worn Powerstone
+Serrated Arrows
+Untethered Express
+Seaside Citadel
+Arcane Sanctum
+Crumbling Necropolis
+Savage Lands
+Jungle Shrine
+Nomad Outpost
+Frontier Bivouac
+Sandsteppe Citadel
+Mystic Monastery
+Opulent Palace
+Ancient Tomb
+Ash Barrens
+City of Brass
+Evolving Wilds
+Gemstone Mine
+Guildless Commons
+Mirrodin's Core
+Mishra's Factory
+Terramorphic Expanse
+Thriving Bluff
+Thriving Grove
+Thriving Heath
+Thriving Isle
+Thriving Moor
+Vivid Crag
+Vivid Creek
+Vivid Grove
+Vivid Marsh
+Vivid Meadow

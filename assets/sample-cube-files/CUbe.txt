@@ -1,0 +1,360 @@
+Dauntless Bodyguard
+Mardu Woe-Reaper
+Skymarcher Aspirant
+Thraben Inspector
+Topplegeist
+Town Gossipmonger
+Usher of the Fallen
+Accorder Paladin
+Adanto Vanguard
+Clarion Spirit
+Cloistered Youth
+Daybreak Charger
+Kor Skyfisher
+Seasoned Hallowblade
+Squadron Hawk
+Thunderous Orator
+Wall of Omens
+Aerial Responder
+Ardenvale Tactician
+Fairgrounds Warden
+Flickerwisp
+Militia Bugler
+Pianna, Nomad Captain
+Siege Striker
+Soltari Champion
+Sunscourge Champion
+Territorial Hammerskull
+Basri's Acolyte
+Master Splicer
+Relief Captain
+Rhox Veteran
+Visionary Augmenter
+Cloudgoat Ranger
+Custodi Squire
+Elite Scaleguard
+Sentinel of the Eternal Watch
+Ephemerate
+Harm's Way
+Path to Exile
+Swords to Plowshares
+Shelter
+Valorous Stance
+Slaughter the Strong
+Battle Screech
+Great Teacher's Decree
+Spectral Procession
+Barbed Spike
+Gryff's Boon
+Journey to Nowhere
+Temporal Isolation
+Conclave Tribunal
+Faith's Fetters
+Cloudfin Raptor
+Enclave Cryptologist
+Pteramander
+Augury Owl
+Departed Deckhand
+Looter il-Kor
+Skyship Plunderer
+Watcher for Tomorrow
+Alirios, Enraptured
+Frost Trickster
+Illusory Angel
+Lore Drakkis
+Man-o'-War
+Mirror Image
+Serendib Efreet
+Tandem Lookout
+Clone
+Mist Raven
+Murmuring Mystic
+Ninja of the Deep Hours
+Whirler Rogue
+Infiltrator il-Kor
+Mulldrifter
+Pouncing Shoreshark
+Riftwing Cloudskate
+Shipwreck Dowser
+Waker of Waves
+Kasmina, Enigmatic Mentor
+Condescend
+More or Less
+Counterspell
+Impulse
+Into the Roil
+Mana Leak
+Miscalculation
+Remand
+Psionic Blast
+Repulse
+Fact or Fiction
+Ponder
+Preordain
+Serum Visions
+Chart a Course
+Compulsive Research
+Deep Analysis
+Talrand's Invocation
+Rise from the Tides
+Crystal Shard
+Standstill
+Control Magic
+Time of Ice
+Faerie Conclave
+Carrion Feeder
+Thoughtpicker Witch
+Vampire of the Dire Moon
+Blood Artist
+Gifted Aetherborn
+Gluttonous Slug
+Heir of Falkenrath
+Legion Vanguard
+Mire Triton
+Nezumi Graverobber
+Reassembling Skeleton
+Sinister Starfish
+Sinuous Vermin
+Banewhip Punisher
+Grimdancer
+Hypnotic Specter
+Liliana's Devotee
+Plaguecrafter
+Sorceress Queen
+Stinkweed Imp
+Vampire Nighthawk
+Corpse Augur
+Falkenrath Noble
+Marsh Flitter
+Orc Sureshot
+Gilt-Leaf Winnower
+Gray Merchant of Asphodel
+Rakshasa Gravecaller
+Syr Konrad, the Grim
+Vampire Sovereign
+Archfiend of Sorrows
+Gurmag Angler
+Fungal Infection
+Village Rites
+Heartless Act
+Ultimate Price
+Poison the Cup
+Snuff Out
+Murderous Cut
+Harsh Scrutiny
+Inquisition of Kozilek
+Unearth
+Hymn to Tourach
+Night's Whisper
+Bleeding Edge
+Call of the Death-Dweller
+Read the Bones
+Victimize
+Unburial Rites
+Mogis's Favor
+Animate Dead
+Necromancy
+Blazing Rootwalla
+Bloodlust Inciter
+Frenzied Goblin
+Jackal Pup
+Rakdos Cackler
+Stonewright
+Aether Chaser
+Bloodrage Brawler
+Careless Celebrant
+Flametongue Yearling
+Frazzled Editor
+Heartfire Immolator
+Mogg War Marshal
+Rimrock Knight
+Thermo-Alchemist
+Young Pyromancer
+Ahn-Crop Crasher
+Anax, Hardened in the Forge
+Captain Ripley Vance
+Coastline Marauders
+Pyreheart Wolf
+Toggo, Goblin Weaponsmith
+Weaver of Lightning
+Beetleback Chief
+Flametongue Kavu
+Goblin Heelcutter
+Smoldering Werewolf
+Garbage Elemental
+Garbage Elemental
+Boarding Party
+Tibalt, Rakish Instigator
+Lightning Bolt
+Incinerate
+Temur Battle Rage
+Savage Alliance
+Staggershock
+Super-Duper Death Ray
+Chain Lightning
+Claim the Firstborn
+Faithless Looting
+Firebolt
+Flame Slash
+Reckless Charge
+Arc Lightning
+Light Up the Stage
+Shreds of Sanity
+Shower of Coals
+Volcanic Torrent
+Weaponize the Monsters
+Lust for War
+Frenzied Fugue
+Ghitu Encampment
+Chainweb Aracnir
+Experiment One
+Fyndhorn Elves
+Joraga Treespeaker
+Kessig Prowler
+Devoted Druid
+Duskwatch Recruiter
+Hermit Druid
+Kraul Harpooner
+Merfolk Branchwalker
+Noose Constrictor
+Saddled Rimestag
+Sakura-Tribe Elder
+Treetop Ambusher
+Wall of Roots
+Crocanura
+Eternal Witness
+Imperious Perfect
+Manaplasm
+Scurry Oak
+Shrill Howler
+Blastoderm
+Briarhorn
+Pack Guardian
+Phantom Centaur
+Temur Sabertooth
+Arborback Stomper
+Auspicious Starrix
+Ridgescale Tusker
+Trollbred Guardian
+Great Oak Guardian
+Scaled Behemoth
+Warden of the Woods
+Pelakka Wurm
+Plated Crusher
+Grapple with the Past
+Ram Through
+Gnaw to the Bone
+Abundant Harvest
+Savage Swipe
+Scale Up
+Nature's Way
+Regrowth
+Kodama's Reach
+Harmonize
+Spider Spawning
+Rancor
+Squirrel Sanctuary
+Kenrith's Transformation
+Season of Growth
+Song of Freyalise
+Treetop Village
+Momentary Blink
+Empyrean Eagle
+Reflector Mage
+Soulherder
+Cloudblazer
+Migratory Route
+Baleful Strix
+Araumi of the Dead Tide
+Psychatog
+Tomebound Lich
+Ribbons of Night
+Dinrova Horror
+Azra Oddsmaker
+Blazing Specter
+Murderous Redcap
+Bituminous Blast
+Garna, the Bloodflame
+Swift Warkite
+Voltaic Brawler
+Fanatic of Xenagos
+Rhythm of the Wild
+Tuya Bearclaw
+Bloodbraid Elf
+Ghor-Clan Rampager
+Arcus Acolyte
+Appeal // Authority
+Good-Fortune Unicorn
+Ironroot Warlord
+Kitchen Finks
+Trostani's Summoner
+Corpse Knight
+Pitiless Pontiff
+Tidehollow Sculler
+Zealous Persecution
+Lingering Souls
+Maw of the Obzedat
+Sprite Dragon
+Electrolyze
+Enigma Drake
+Saheeli, Sublime Artificer
+Fire // Ice
+Prophetic Bolt
+Deadly Brew
+Life // Death
+Nyx Weaver
+Obelisk Spider
+Worm Harvest
+Baloth Null
+Honored Crop-Captain
+Truefire Paladin
+Goblin Trenches
+Rally the Peasants
+Heroic Reinforcements
+Nahiri, Storm of Stone
+Ongoing Investigation
+Kiora, Behemoth Beckoner
+Shardless Agent
+Frilled Mystic
+Parcelbeast
+Sharktocrab
+Epochrasite
+Perilous Myr
+Porcelain Legionnaire
+Spined Thopter
+Filigree Familiar
+Snare Thopter
+Staunch Throneguard
+Dismember
+Bonesplitter
+Mask of Memory
+Renegade Freighter
+Untethered Express
+Seaside Citadel
+Arcane Sanctum
+Crumbling Necropolis
+Savage Lands
+Jungle Shrine
+Nomad Outpost
+Frontier Bivouac
+Sandsteppe Citadel
+Mystic Monastery
+Opulent Palace
+Aether Hub
+Ash Barrens
+City of Brass
+Evolving Wilds
+Gemstone Mine
+Mirrodin's Core
+Mishra's Factory
+Terramorphic Expanse
+Thriving Bluff
+Thriving Grove
+Thriving Heath
+Thriving Isle
+Thriving Moor
+Vivid Crag
+Vivid Creek
+Vivid Grove
+Vivid Marsh
+Vivid Meadow

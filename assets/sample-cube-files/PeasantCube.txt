@@ -1,0 +1,360 @@
+Dauntless Bodyguard
+Law-Rune Enforcer
+Mardu Woe-Reaper
+Mother of Runes
+Skymarcher Aspirant
+Thraben Inspector
+Usher of the Fallen
+Accorder Paladin
+Adanto Vanguard
+Barbed Spike
+Cathar Commando
+Clarion Spirit
+Fearless Fledgling
+Kor Skyfisher
+Raise the Alarm
+Seasoned Hallowblade
+Seeker of the Way
+Wall of Omens
+Whitemane Lion
+Aerial Responder
+Fairgrounds Warden
+Flickerwisp
+Midnight Haunting
+Prava of the Steel Legion
+Soltari Champion
+Stonecloaker
+Battle Screech
+Glimmerpoint Stag
+Master Splicer
+Relief Captain
+Rhox Veteran
+Spectral Procession
+Visionary Augmenter
+Cloudgoat Ranger
+Custodi Squire
+Feudkiller's Verdict
+Sentinel of the Eternal Watch
+Ephemerate
+Harm's Way
+Path to Exile
+Swords to Plowshares
+Otherworldly Journey
+Slaughter the Strong
+Great Teacher's Decree
+Shrine of Loyal Legions
+Oketra's Monument
+Gryff's Boon
+Intangible Virtue
+Temporal Isolation
+Banishing Light
+Oblivion Ring
+Cast Out
+Sejiri Shelter
+Enclave Cryptologist
+Nephalia Smuggler
+Pteramander
+Siren Stormtamer
+Spectral Sailor
+Faerie Vandal
+Hypnotic Sprite
+Looter il-Kor
+Merfolk Looter
+Riftwing Cloudskate
+Skyship Plunderer
+Watcher for Tomorrow
+Waterfront Bouncer
+Alirios, Enraptured
+Cloudkin Seer
+Laboratory Maniac
+Man-o'-War
+Sea Gate Oracle
+Tandem Lookout
+Mist Raven
+Murmuring Mystic
+Talrand's Invocation
+Whirler Rogue
+Mulldrifter
+Shipwreck Dowser
+Jetting Glasskite
+Rise from the Tides
+Kasmina, Enigmatic Mentor
+Consider
+Striped Riverwinder
+Censor
+Counterspell
+Into the Roil
+Lose Focus
+Mana Leak
+Miscalculation
+Remand
+Waker of Waves
+Condescend
+Displace
+Forbid
+Ghostly Flicker
+Neutralize
+Psionic Blast
+Fact or Fiction
+Ponder
+Preordain
+Chart a Course
+Compulsive Research
+Treasure Cruise
+Crystal Shard
+Ominous Seas
+Control Magic
+Faerie Conclave
+Carnophage
+Carrion Feeder
+Diregraf Ghoul
+Gnarled Scarhide
+Thoughtpicker Witch
+Vampire Lacerator
+Viscera Seer
+Blood Artist
+Cabal Initiate
+Heir of Falkenrath
+Kitesail Freebooter
+Legion Vanguard
+Order of Midnight
+Reassembling Skeleton
+Bastion of Remembrance
+Grimdancer
+Hypnotic Specter
+Morbid Opportunist
+Stinkweed Imp
+Vampire Nighthawk
+Falkenrath Noble
+Gurmag Angler
+Ravenous Chupacabra
+Skinrender
+Sling-Gang Lieutenant
+Vile Entomber
+Syr Konrad, the Grim
+Vampire Sovereign
+Archfiend of Sorrows
+Darkblast
+Village Rites
+Go for the Throat
+Infernal Grasp
+Murderous Cut
+Bloodchief's Thirst
+Duress
+Inquisition of Kozilek
+Reanimate
+Unearth
+Agonizing Remorse
+Demonic Tutor
+Exhume
+Unmarked Grave
+Drown in Sorrow
+Victimize
+Barter in Blood
+Dread Return
+Incremental Blight
+Animate Dead
+Dance of the Dead
+Necromancy
+Diabolic Servitude
+Malakir Rebirth
+Falkenrath Gorger
+Falkenrath Pit Fighter
+Firedrinker Satyr
+Jackal Pup
+Monastery Swiftspear
+Stonewright
+Flametongue Yearling
+Forbidden Friendship
+Goblin Cratermaker
+Gore-House Chainwalker
+Heartfire Immolator
+Mogg War Marshal
+Rimrock Knight
+Stormblood Berserker
+Thermo-Alchemist
+Viashino Pyromancer
+Young Pyromancer
+Ahn-Crop Crasher
+Anax, Hardened in the Forge
+Coastline Marauders
+Goblin Heelcutter
+Guttersnipe
+Hordeling Outburst
+Imperial Recruiter
+Spiteful Prankster
+Toggo, Goblin Weaponsmith
+Ardent Elementalist
+Beetleback Chief
+Flametongue Kavu
+Keldon Champion
+Kinetic Augur
+Charging Monstrosaur
+Burst Lightning
+Lightning Bolt
+Play with Fire
+Abrade
+Lightning Strike
+Magma Jet
+Thrill of Possibility
+Staggershock
+Claim the Firstborn
+Faithless Looting
+Firebolt
+Light Up the Stage
+Pyroclasm
+Roil Eruption
+Arc Lightning
+Fast // Furious
+Slice and Dice
+Shrine of Burning Rage
+Weaponize the Monsters
+Goblin Bombardment
+Lust for War
+Arbor Elf
+Chainweb Aracnir
+Experiment One
+Fyndhorn Elves
+Joraga Treespeaker
+Kessig Prowler
+Llanowar Elves
+Duskwatch Recruiter
+Jade Mage
+Kraul Harpooner
+Merfolk Branchwalker
+Noose Constrictor
+Paradise Druid
+Saddled Rimestag
+Sakura-Tribe Elder
+Satyr Wayfinder
+Ulvenwald Captive
+Wall of Blossoms
+Eternal Witness
+Imperious Perfect
+Llanowar Visionary
+Reclamation Sage
+Splinterfright
+Thrashing Brontodon
+Tireless Provisioner
+Briarhorn
+Halana, Kessig Ranger
+Temur Sabertooth
+Timeless Witness
+Acidic Slime
+Arborback Stomper
+Grizzly Fate
+Untamed Kavu
+Great Oak Guardian
+Warden of the Woods
+Pelakka Wurm
+Plated Crusher
+Roar of the Wurm
+Blossoming Defense
+Wilt
+Krosan Tusker
+Abundant Harvest
+Search for Tomorrow
+Farseek
+Winding Way
+Beanstalk Giant
+Cultivate
+Dryad's Revival
+Rancor
+Utopia Sprawl
+Song of Freyalise
+Bala Ged Recovery
+Treetop Village
+Momentary Blink
+Soulherder
+Baleful Strix
+Psychatog
+Fire Covenant
+Mayhem Devil
+Rhythm of the Wild
+Bloodbraid Elf
+Good-Fortune Unicorn
+Trostani's Summoner
+Lingering Souls
+Maw of the Obzedat
+Improbable Alliance
+Sprite Dragon
+Nyx Weaver
+Spider Spawning
+Goblin Trenches
+Heroic Reinforcements
+Mystic Snake
+Tatyova, Benthic Druid
+Dryad Militant
+Rakdos Cackler
+Safehold Elite
+Turn to Mist
+Kitchen Finks
+Saheeli, Sublime Artificer
+Angrath, Captain of Chaos
+Murderous Redcap
+Worm Harvest
+Epochrasite
+Ornithopter of Paradise
+Perilous Myr
+Porcelain Legionnaire
+Spined Thopter
+Filigree Familiar
+Pilgrim's Eye
+Sphinx of the Guildpact
+Ulamog's Crusher
+Mutagenic Growth
+Dismember
+Bag of Holding
+Bonesplitter
+Coldsteel Heart
+Lightning Greaves
+Mask of Memory
+Mind Stone
+Bonder's Ornament
+Grafted Wargear
+Heirloom Blade
+Hedron Archive
+Icy Manipulator
+Glacial Fortress
+Temple of Enlightenment
+Tundra
+Sunken Ruins
+Temple of Deceit
+Underground Sea
+Badlands
+Blackcleave Cliffs
+Graven Cairns
+Copperline Gorge
+Raging Ravine
+Taiga
+Savannah
+Stirring Wildwood
+Sunpetal Grove
+Fetid Heath
+Isolated Chapel
+Scrubland
+Spirebluff Canal
+Temple of Epiphany
+Volcanic Island
+Bayou
+Hissing Quagmire
+Twilight Mire
+Clifftop Retreat
+Inspiring Vantage
+Plateau
+Lumbering Falls
+Temple of Mystery
+Tropical Island
+Ancient Tomb
+Ash Barrens
+City of Brass
+Evolving Wilds
+Fabled Passage
+Field of Ruin
+Grand Coliseum
+Mana Confluence
+Mishra's Factory
+Prismatic Vista
+Reflecting Pool
+Tectonic Edge
+Terramorphic Expanse
