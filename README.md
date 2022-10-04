@@ -15,11 +15,11 @@ sure! check 'em out:
 
 ### list duplicates
 
-![duplicate demo](assets/demos/cu-duplicates-demo.mp4)
+https://user-images.githubusercontent.com/4302376/193941831-d22ab35d-bbfa-4640-966e-8cf159ca1223.mp4
 
 ### frequency analysis
 
-![frequency analysis demo](assets/demos/cu-freq-analysis-demo.mp4)
+https://user-images.githubusercontent.com/4302376/193941847-9071ef25-f1ed-463e-b5b8-0b3feadd9d38.mp4
 
 ## okay, i want to use it. how do i install?
 
